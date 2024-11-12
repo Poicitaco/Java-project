@@ -22,12 +22,32 @@
     </complexSubject>
     <complexSubject>
         <id>3</id>
-        <hoTen>nguyễn đức mạnh 5</hoTen>
+        <hoTen>nguyễn đức mạnh 9</hoTen>
         <ngaySinh>09-11-2024</ngaySinh>
         <gioiTinh>Nam</gioiTinh>
         <noio>hà nội</noio>
         <hoKhauThuongTru>hà nội</hoKhauThuongTru>
-        <thanNhan></thanNhan>
+        <thanNhan>abc</thanNhan>
+        <loaiDoiTuong>Tiền án</loaiDoiTuong>
+    </complexSubject>
+    <complexSubject>
+        <id>4</id>
+        <hoTen>khoa</hoTen>
+        <ngaySinh></ngaySinh>
+        <gioiTinh>Chưa chọn</gioiTinh>
+        <noio></noio>
+        <hoKhauThuongTru></hoKhauThuongTru>
+        <thanNhan>kéo</thanNhan>
+        <loaiDoiTuong>Nghiện</loaiDoiTuong>
+    </complexSubject>
+    <complexSubject>
+        <id>6</id>
+        <hoTen>nguyễn kim thành đạt</hoTen>
+        <ngaySinh>07-08-2024</ngaySinh>
+        <gioiTinh>Chưa chọn</gioiTinh>
+        <noio>hà tây</noio>
+        <hoKhauThuongTru>Hà nội</hoKhauThuongTru>
+        <thanNhan>Khoa</thanNhan>
         <loaiDoiTuong>Tiền án</loaiDoiTuong>
     </complexSubject>
 </complexSubjects>

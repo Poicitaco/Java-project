@@ -82,4 +82,21 @@
         </dependency>
 
     </dependencies>
+    <build>
+        <plugins>
+            <!-- Plugin để đóng gói file JAR -->
+            <plugin>
+                <groupId>com.mycompany</groupId>
+                <artifactId>login-ui</artifactId>
+                <version>3.2.0</version>
+                <configuration>
+                    <archive>
+                        <manifest>
+                            <mainClass>main.Login</mainClass> <!-- Đặt tên class main của bạn -->
+                        </manifest>
+                    </archive>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 </project>
